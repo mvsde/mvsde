@@ -7,7 +7,7 @@
 ## Social Media
 
 * [Twitter](https://twitter.com/mvsde)
-* [DEV](https://dev.to/mvsde)
 * [GitHub](https://github.com/mvsde)
 * [GitLab](https://gitlab.com/mvsde)
+* [DEV](https://dev.to/mvsde)
 * [LinkedIn](https://linkedin.com/in/fynn)
