@@ -2,7 +2,7 @@
 
 * [Ethics](https://fynn.be/ethics/)
 * [Dev setup](https://fynn.be/uses/)
-* [Pile of Shame™](https://fynn.be/games/)
+* [Pile of Shame](https://fynn.be/games/)™
 
 ## Social Media
 
@@ -10,4 +10,5 @@
 * [GitHub](https://github.com/mvsde)
 * [GitLab](https://gitlab.com/mvsde)
 * [DEV](https://dev.to/mvsde)
+* [Polywork](https://www.polywork.com/fynn)
 * [LinkedIn](https://linkedin.com/in/fynn)
