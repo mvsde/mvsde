@@ -11,6 +11,5 @@
 * [Twitter](https://twitter.com/mvsde)
 * [GitHub](https://github.com/mvsde)
 * [GitLab](https://gitlab.com/mvsde)
-* [DEV](https://dev.to/mvsde)
-* [Polywork](https://www.polywork.com/fynn)
+* [DEV](https://dev.to/fynn)
 * [LinkedIn](https://linkedin.com/in/fynn)
