@@ -4,7 +4,6 @@
 * [Talks](https://fynn.be/talks/)
 * [Dev setup](https://fynn.be/uses/)
 * [Ethics](https://fynn.be/ethics/)
-* [Pile of Shame](https://fynn.be/games/)™
 
 ## Social Media
 
