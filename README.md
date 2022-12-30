@@ -1,6 +1,6 @@
 ## About me
 
-Pronouns: [they/them](https://fynn.be/pronouns/en/)
+Pronouns: [they/them](https://fynn.lgbt/)
 
 * [Blog](https://fynn.be/blog/)
 * [Talks](https://fynn.be/talks/)
@@ -9,6 +9,6 @@ Pronouns: [they/them](https://fynn.be/pronouns/en/)
 ## Social Media
 
 * [Mastodon](https://mastodon.social/@mvsde)
+* [Twitter](https://twitter.com/mvsde)
 * [GitHub](https://github.com/mvsde)
 * [LinkedIn](https://linkedin.com/in/fynn)
-* [Twitter (archive)](https://twitter.fynn.be/)
