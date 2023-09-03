@@ -9,6 +9,5 @@ Pronouns: [they/them](https://fynn.lgbt/)
 ## Social Media
 
 * [Mastodon](https://mastodon.social/@mvsde)
-* [Twitter](https://twitter.com/mvsde)
 * [GitHub](https://github.com/mvsde)
 * [LinkedIn](https://linkedin.com/in/fynn)
